@@ -2,6 +2,14 @@
 
 Este código HTML presenta un reloj digital simple que muestra la hora actual. Cada sección del reloj (horas, minutos y segundos) está representada en una caja separada con un diseño atractivo y funcionalidad de cambio de color al pasar el ratón.
 
+## Vista Previa 🌐
+
+Puedes acceder a una vista previa en vivo del prototipo [aquí](https://gorgeous-zuccutto-26cf6c.netlify.app/).
+
+
+![php](https://github.com/DannyCrisostomo/Hora/blob/main/Hora.png)
+
+
 ## Estructura de Archivos
 
 - **css/style.css:** Hoja de estilo principal para dar formato al reloj.
@@ -32,5 +40,4 @@ Este código HTML presenta un reloj digital simple que muestra la hora actual. C
 ¡Siéntete libre de utilizar este código como un reloj digital simple! Si tienes alguna pregunta o necesitas asistencia, por favor contacta a [Danny Crisostomo](#).
 
 ¡Espero que disfrutes del reloj digital! 🕰️✨
-## Vista Previa
-![php](https://github.com/DannyCrisostomo/Hora/blob/main/Hora.png)
+
